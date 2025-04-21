@@ -1,0 +1,8 @@
+GIT commands
+
+git clone https://github.com/kkdevopsb3/maven-web-app-project-kk-funda.git
+git init
+git add maven-web-app-project-kk-funda
+git status
+git commit -m "Initial commit of maven-web-app-project"
+git remote add origin https://github.com/yourusername/your-repo.git
